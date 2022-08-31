@@ -1,0 +1,8 @@
+# MANIFEST.in
+
+include README.txt
+include setup.cfg
+include setup.py
+include tkmodule\__init__.py
+include tkmodule\tkmodule.py
+include tkmodule\defaultImg\default.ico

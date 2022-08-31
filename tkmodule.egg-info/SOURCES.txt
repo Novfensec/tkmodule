@@ -1,0 +1,12 @@
+MANIFEST.in
+README.txt
+setup.cfg
+setup.py
+tkmodule/__init__.py
+tkmodule/tkmodule.py
+tkmodule.egg-info/PKG-INFO
+tkmodule.egg-info/SOURCES.txt
+tkmodule.egg-info/dependency_links.txt
+tkmodule.egg-info/requires.txt
+tkmodule.egg-info/top_level.txt
+tkmodule/defaultImg/default.ico
