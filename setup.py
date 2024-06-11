@@ -7,7 +7,7 @@ setup(
   description = 'Tkinter GUI Utility. Compress large tkinter projects to small files using this.',   # Give a short description about your library
   author = 'Kartavya Shukla',                   # Type in your name
   author_email = 'novfensec@protonmail.com',      # Type in your E-Mail
-  url = 'https://novfensec.herokuapp.com/',   # Provide either the link to your github or to your website
+  url = 'https://novfensec.vercel.app/',   # Provide either the link to your github or to your website
   download_url = 'https://github.com/Novfensec/tkmodule/archive/refs/tags/v_0.1.5.tar.gz',    # I explain this later on
   keywords = ['Tkinter', 'tkmodule', 'TkinterUtitlity'],   # Keywords that define your package best
   install_requires=[            # I get to this in a second
