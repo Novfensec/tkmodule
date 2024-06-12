@@ -1,15 +1,13 @@
-Metadata-Version: 1.1
+Metadata-Version: 2.1
 Name: tkmodule
 Version: 0.1.6
 Summary: TkModule equips developers with a suite of tools and functions that elevate the Tkinter experience to new heights, making GUI creation more intuitive, faster, and more enjoyable. TkModule comes in offering a simplified and more Pythonic approach to GUI development.
 Home-page: https://novfensec.vercel.app/projects/tkmodule
+Download-URL: https://github.com/Novfensec/tkmodule/archive/refs/tags/v_0.1.6.tar.gz
 Author: Kartavya Shukla
 Author-email: novfensec@protonmail.com
 License: MIT
-Download-URL: https://github.com/Novfensec/tkmodule/archive/refs/tags/v_0.1.6.tar.gz
-Description: UNKNOWN
 Keywords: Tkinter,tkmodule,TkinterUtitlity
-Platform: UNKNOWN
 Classifier: Development Status :: 3 - Alpha
 Classifier: Intended Audience :: Developers
 Classifier: Topic :: Software Development :: Build Tools
@@ -21,3 +19,22 @@ Classifier: Programming Language :: Python :: 3.6
 Classifier: Programming Language :: Python :: 3.7
 Classifier: Programming Language :: Python :: 3.8
 Classifier: Programming Language :: Python :: 3.9
+Description-Content-Type: text/markdown
+License-File: LICENSE.txt
+Requires-Dist: validators
+Requires-Dist: beautifulsoup4
+Requires-Dist: pillow
+Requires-Dist: pathlib
+
+# TkModule: A Pythonic Gateway to Tkinter
+
+<pre><code>pip install --upgrade tkmodule</code></pre>
+
+In the realm of graphical user interface (GUI) development within the Python ecosystem, Tkinter has long stood as the standard library for creating simple and effective GUI applications. However, despite its widespread use, newcomers and even seasoned developers often find themselves entangled in the verbosity and complexity of Tkinter’s traditional approach. Enter TkModule, a Python package that emerges as a beacon of simplicity, transforming the way we interact with Tkinter.
+
+When it comes to GUI programming in Python, Tkinter has been the go-to library for many developers. However, its complexity can sometimes be daunting. That’s where TkModule comes in, offering a simplified and more Pythonic approach to GUI development.
+
+TkModule is not just another wrapper; it is a thoughtful utility that draws inspiration from the likes of KivyMD, extending the capabilities of Kivy by providing a set of Material Design components. Similarly, TkModule equips developers with a suite of tools and functions that elevate the Tkinter experience to new heights, making GUI creation more intuitive, faster, and more enjoyable.
+Keywords: Tkinter,tkmodule,TkinterUtitlity
+
+Visit [Novfensec Inc.](https://novfensec.vercel.app/) for more information.

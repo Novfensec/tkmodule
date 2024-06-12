@@ -1,6 +1,6 @@
 # MANIFEST.in
 
-include README.txt
+include README.md
 include setup.cfg
 include setup.py
 include tkmodule\__init__.py
