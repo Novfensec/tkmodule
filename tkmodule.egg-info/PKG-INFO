@@ -1,12 +1,12 @@
 Metadata-Version: 1.1
 Name: tkmodule
-Version: 0.1.4
-Summary: Tkinter GUI Utility. Compress large tkinter projects to small files using this.
-Home-page: https://novfensec.herokuapp.com/
+Version: 0.1.6
+Summary: TkModule equips developers with a suite of tools and functions that elevate the Tkinter experience to new heights, making GUI creation more intuitive, faster, and more enjoyable. TkModule comes in offering a simplified and more Pythonic approach to GUI development.
+Home-page: https://novfensec.vercel.app/projects/tkmodule
 Author: Kartavya Shukla
 Author-email: novfensec@protonmail.com
 License: MIT
-Download-URL: https://github.com/Novfensec/tkmodule/archive/refs/tags/v_0.1.tar.gz
+Download-URL: https://github.com/Novfensec/tkmodule/archive/refs/tags/v_0.1.6.tar.gz
 Description: UNKNOWN
 Keywords: Tkinter,tkmodule,TkinterUtitlity
 Platform: UNKNOWN

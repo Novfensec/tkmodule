@@ -2,13 +2,13 @@ from setuptools import setup
 setup(
   name = 'tkmodule',         # How you named your package folder (MyLib)
   packages = ['tkmodule'],   # Chose the same as "name"
-  version = '0.1.5',      # Start with a small number and increase it with every change you make
+  version = '0.1.6',      # Start with a small number and increase it with every change you make
   license='MIT',        # Chose a license from here: https://help.github.com/articles/licensing-a-repository
-  description = 'Tkinter GUI Utility. Compress large tkinter projects to small files using this.',   # Give a short description about your library
+  description = 'TkModule equips developers with a suite of tools and functions that elevate the Tkinter experience to new heights, making GUI creation more intuitive, faster, and more enjoyable. TkModule comes in offering a simplified and more Pythonic approach to GUI development.',   # Give a short description about your library
   author = 'Kartavya Shukla',                   # Type in your name
   author_email = 'novfensec@protonmail.com',      # Type in your E-Mail
-  url = 'https://novfensec.vercel.app/',   # Provide either the link to your github or to your website
-  download_url = 'https://github.com/Novfensec/tkmodule/archive/refs/tags/v_0.1.5.tar.gz',    # I explain this later on
+  url = 'https://novfensec.vercel.app/projects/tkmodule',   # Provide either the link to your github or to your website
+  download_url = 'https://github.com/Novfensec/tkmodule/archive/refs/tags/v_0.1.6.tar.gz',    # I explain this later on
   keywords = ['Tkinter', 'tkmodule', 'TkinterUtitlity'],   # Keywords that define your package best
   install_requires=[            # I get to this in a second
           'validators',
