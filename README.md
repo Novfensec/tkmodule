@@ -1,7 +1,7 @@
 # TkModule: A Pythonic Gateway to Tkinter
 
 ```bash
-pip install TkModule
+pip install tkmodule
 ```
 
 In the realm of graphical user interface (GUI) development within the Python ecosystem, Tkinter has long stood as the standard library for creating simple and effective GUI applications. However, despite its widespread use, newcomers and even seasoned developers often find themselves entangled in the verbosity and complexity of Tkinter's traditional approach. Enter TkModule, a Python package that emerges as a beacon of simplicity, transforming the way we interact with Tkinter.
