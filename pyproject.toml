@@ -1,0 +1,42 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "tkmodule"
+dynamic = ["version"]
+requires-python = ">=3.7"
+authors = [
+  {name = "Kartavya Shukla", email = "novfensec@protonmail.com"},
+]
+maintainers = [
+  {name = "Kartavya Shukla", email = "novfensec@protonmail.com"},
+]
+description = "TkModule equips developers with a suite of tools and functions that elevate the Tkinter experience to new heights, making GUI creation more intuitive, faster, and more enjoyable. TkModule comes in offering a simplified and more Pythonic approach to GUI development."
+readme = "README.md"
+license = {file = "LICENSE"}
+keywords = ["tkinter", "tcl", "open source", "tkmodule", "kartavya shukla", "novfensec", "tk"]
+classifiers = [
+  "Development Status :: 4 - Beta",
+  "Intended Audience :: Developers",
+  "Topic :: Software Development :: Build Tools",
+  "License :: OSI Approved :: MIT License",
+  "Programming Language :: Python :: 3"
+]
+
+[project.urls]
+Homepage = "https://github.com/Novfensec/TkModule"
+Repository = "https://github.com/Novfensec/TkModule"
+"Bug Tracker" = "https://github.com/Novfensec/TkModule/issues"
+Changelog = "https://github.com/Novfensec/TkModule/blob/main/CHANGELOG.md"
+
+[tool.setuptools.dynamic]
+version = {attr = "tkmodule.__version__"}
+
+[tool.setuptools.package-data]
+"tkmodule" = [
+  "**/*.ico",
+]
+
+[tool.setuptools.exclude-package-data]
+"tkmodule" = ["*.pyc", "*.pyo"]

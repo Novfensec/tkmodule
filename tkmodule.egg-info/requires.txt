@@ -1,4 +1,0 @@
-validators
-beautifulsoup4
-pillow
-pathlib
